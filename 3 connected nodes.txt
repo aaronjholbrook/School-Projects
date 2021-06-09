@@ -1,0 +1,95 @@
+Nodes: 0 3 are connected by case 0: E(00000)[00010]
+Nodes: 0 8 are connected by case 1: E(00000)[00010]
+
+Nodes: 1 4 are connected by case 0: E(00000)[00010]
+Nodes: 1 9 are connected by case 1: E(00000)[00010]
+
+Nodes: 2 5 are connected by case 0: E(00000)[00010]
+Nodes: 2 10 are connected by case 1: E(00000)[00010]
+
+Nodes: 3 6 are connected by case 0: E(00000)[00010]
+Nodes: 3 11 are connected by case 1: E(00000)[00010]
+
+Nodes: 4 7 are connected by case 0: E(00000)[00010]
+Nodes: 4 12 are connected by case 1: E(00000)[00010]
+
+Nodes: 5 8 are connected by case 0: E(00000)[00010]
+Nodes: 5 13 are connected by case 1: E(00000)[00010]
+
+Nodes: 6 9 are connected by case 0: E(00000)[00010]
+Nodes: 6 14 are connected by case 1: E(00000)[00010]
+
+Nodes: 7 10 are connected by case 0: E(00000)[00010]
+Nodes: 7 15 are connected by case 1: E(00000)[00010]
+
+Nodes: 8 11 are connected by case 0: E(00000)[00010]
+Nodes: 8 16 are connected by case 1: E(00000)[00010]
+
+Nodes: 9 12 are connected by case 0: E(00000)[00010]
+Nodes: 9 17 are connected by case 1: E(00000)[00010]
+
+Nodes: 10 13 are connected by case 0: E(00000)[00010]
+Nodes: 10 18 are connected by case 1: E(00000)[00010]
+
+Nodes: 11 14 are connected by case 0: E(00000)[00010]
+Nodes: 11 19 are connected by case 1: E(00000)[00010]
+
+Nodes: 12 15 are connected by case 0: E(00000)[00010]
+Nodes: 12 20 are connected by case 1: E(00000)[00010]
+
+Nodes: 13 16 are connected by case 0: E(00000)[00010]
+Nodes: 13 21 are connected by case 1: E(00000)[00010]
+
+Nodes: 14 17 are connected by case 0: E(00000)[00010]
+Nodes: 14 22 are connected by case 1: E(00000)[00010]
+
+Nodes: 15 18 are connected by case 0: E(00000)[00010]
+Nodes: 15 23 are connected by case 1: E(00000)[00010]
+
+Nodes: 16 19 are connected by case 0: E(00000)[00010]
+Nodes: 16 24 are connected by case 1: E(00000)[00010]
+
+Nodes: 17 20 are connected by case 0: E(00000)[00010]
+Nodes: 17 25 are connected by case 1: E(00000)[00010]
+
+Nodes: 18 21 are connected by case 0: E(00000)[00010]
+Nodes: 18 26 are connected by case 1: E(00000)[00010]
+
+Nodes: 19 22 are connected by case 0: E(00000)[00010]
+Nodes: 19 27 are connected by case 1: E(00000)[00010]
+
+Nodes: 20 23 are connected by case 0: E(00000)[00010]
+Nodes: 20 28 are connected by case 1: E(00000)[00010]
+
+Nodes: 21 24 are connected by case 0: E(00000)[00010]
+Nodes: 21 29 are connected by case 1: E(00000)[00010]
+
+Nodes: 22 25 are connected by case 0: E(00000)[00010]
+Nodes: 22 30 are connected by case 1: E(00000)[00010]
+
+Nodes: 23 26 are connected by case 0: E(00000)[00010]
+Nodes: 23 31 are connected by case 1: E(00000)[00010]
+
+Nodes: 24 0 are connected by case 1: E(00000)[00010]
+Nodes: 24 27 are connected by case 0: E(00000)[00010]
+
+Nodes: 25 1 are connected by case 1: E(00000)[00010]
+Nodes: 25 28 are connected by case 0: E(00000)[00010]
+
+Nodes: 26 2 are connected by case 1: E(00000)[00010]
+Nodes: 26 29 are connected by case 0: E(00000)[00010]
+
+Nodes: 27 3 are connected by case 1: E(00000)[00010]
+Nodes: 27 30 are connected by case 0: E(00000)[00010]
+
+Nodes: 28 4 are connected by case 1: E(00000)[00010]
+Nodes: 28 31 are connected by case 0: E(00000)[00010]
+
+Nodes: 29 0 are connected by case 0: E(00000)[00010]
+Nodes: 29 5 are connected by case 1: E(00000)[00010]
+
+Nodes: 30 1 are connected by case 0: E(00000)[00010]
+Nodes: 30 6 are connected by case 1: E(00000)[00010]
+
+Nodes: 31 2 are connected by case 0: E(00000)[00010]
+Nodes: 31 7 are connected by case 1: E(00000)[00010]
