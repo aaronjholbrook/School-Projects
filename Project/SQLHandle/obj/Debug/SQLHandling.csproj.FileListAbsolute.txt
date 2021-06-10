@@ -1,0 +1,17 @@
+C:\Users\AlexDesktop\Desktop\project\SQLHandle\bin\Debug\SQLHandle.dll
+C:\Users\AlexDesktop\Desktop\project\SQLHandle\bin\Debug\SQLHandle.pdb
+C:\Users\AlexDesktop\Desktop\project\SQLHandle\bin\Debug\TableAttributes.dll
+C:\Users\AlexDesktop\Desktop\project\SQLHandle\bin\Debug\TableAttributes.pdb
+C:\Users\AlexDesktop\Desktop\project\SQLHandle\obj\Debug\SQLHandling.csprojAssemblyReference.cache
+C:\Users\AlexDesktop\Desktop\project\SQLHandle\obj\Debug\SQLHandling.csproj.CoreCompileInputs.cache
+C:\Users\AlexDesktop\Desktop\project\SQLHandle\obj\Debug\SQLHandling.csproj.CopyComplete
+C:\Users\AlexDesktop\Desktop\project\SQLHandle\obj\Debug\SQLHandle.dll
+C:\Users\AlexDesktop\Desktop\project\SQLHandle\obj\Debug\SQLHandle.pdb
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\SQLHandle\bin\Debug\SQLHandle.dll
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\SQLHandle\bin\Debug\SQLHandle.pdb
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\SQLHandle\bin\Debug\TableAttributes.dll
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\SQLHandle\bin\Debug\TableAttributes.pdb
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\SQLHandle\obj\Debug\SQLHandling.csprojAssemblyReference.cache
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\SQLHandle\obj\Debug\SQLHandling.csproj.CopyComplete
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\SQLHandle\obj\Debug\SQLHandle.dll
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\SQLHandle\obj\Debug\SQLHandle.pdb

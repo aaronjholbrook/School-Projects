@@ -1,0 +1,26 @@
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\TableAttributes\bin\Debug\netstandard2.0\TableAttributes.deps.json
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\TableAttributes\bin\Debug\netstandard2.0\TableAttributes.dll
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\TableAttributes\bin\Debug\netstandard2.0\TableAttributes.pdb
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\TableAttributes\obj\Debug\netstandard2.0\TableAttributes.csprojAssemblyReference.cache
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\TableAttributes\obj\Debug\netstandard2.0\TableAttributes.csproj.CoreCompileInputs.cache
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\TableAttributes\obj\Debug\netstandard2.0\TableAttributes.AssemblyInfoInputs.cache
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\TableAttributes\obj\Debug\netstandard2.0\TableAttributes.AssemblyInfo.cs
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\TableAttributes\obj\Debug\netstandard2.0\TableAttributes.dll
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\TableAttributes\obj\Debug\netstandard2.0\TableAttributes.pdb
+C:\Users\AlexDesktop\Desktop\project\TableAttributes\bin\Debug\netstandard2.0\TableAttributes.deps.json
+C:\Users\AlexDesktop\Desktop\project\TableAttributes\bin\Debug\netstandard2.0\TableAttributes.dll
+C:\Users\AlexDesktop\Desktop\project\TableAttributes\bin\Debug\netstandard2.0\TableAttributes.pdb
+C:\Users\AlexDesktop\Desktop\project\TableAttributes\obj\Debug\netstandard2.0\TableAttributes.csprojAssemblyReference.cache
+C:\Users\AlexDesktop\Desktop\project\TableAttributes\obj\Debug\netstandard2.0\TableAttributes.csproj.CoreCompileInputs.cache
+C:\Users\AlexDesktop\Desktop\project\TableAttributes\obj\Debug\netstandard2.0\TableAttributes.AssemblyInfoInputs.cache
+C:\Users\AlexDesktop\Desktop\project\TableAttributes\obj\Debug\netstandard2.0\TableAttributes.AssemblyInfo.cs
+C:\Users\AlexDesktop\Desktop\project\TableAttributes\obj\Debug\netstandard2.0\TableAttributes.dll
+C:\Users\AlexDesktop\Desktop\project\TableAttributes\obj\Debug\netstandard2.0\TableAttributes.pdb
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\TableAttributes\bin\Debug\netstandard2.0\TableAttributes.deps.json
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\TableAttributes\bin\Debug\netstandard2.0\TableAttributes.dll
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\TableAttributes\bin\Debug\netstandard2.0\TableAttributes.pdb
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\TableAttributes\obj\Debug\netstandard2.0\TableAttributes.csprojAssemblyReference.cache
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\TableAttributes\obj\Debug\netstandard2.0\TableAttributes.AssemblyInfoInputs.cache
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\TableAttributes\obj\Debug\netstandard2.0\TableAttributes.AssemblyInfo.cs
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\TableAttributes\obj\Debug\netstandard2.0\TableAttributes.dll
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\TableAttributes\obj\Debug\netstandard2.0\TableAttributes.pdb

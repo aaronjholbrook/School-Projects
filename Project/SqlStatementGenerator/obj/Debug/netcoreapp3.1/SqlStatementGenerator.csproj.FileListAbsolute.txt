@@ -1,0 +1,11 @@
+C:\Users\ksuza\OneDrive\Desktop\git Team 2\SqlStatementGenerator\bin\Debug\netcoreapp3.1\SqlStatementGenerator.exe
+C:\Users\ksuza\OneDrive\Desktop\git Team 2\SqlStatementGenerator\bin\Debug\netcoreapp3.1\SqlStatementGenerator.deps.json
+C:\Users\ksuza\OneDrive\Desktop\git Team 2\SqlStatementGenerator\bin\Debug\netcoreapp3.1\SqlStatementGenerator.runtimeconfig.json
+C:\Users\ksuza\OneDrive\Desktop\git Team 2\SqlStatementGenerator\bin\Debug\netcoreapp3.1\SqlStatementGenerator.runtimeconfig.dev.json
+C:\Users\ksuza\OneDrive\Desktop\git Team 2\SqlStatementGenerator\bin\Debug\netcoreapp3.1\SqlStatementGenerator.dll
+C:\Users\ksuza\OneDrive\Desktop\git Team 2\SqlStatementGenerator\bin\Debug\netcoreapp3.1\SqlStatementGenerator.pdb
+C:\Users\ksuza\OneDrive\Desktop\git Team 2\SqlStatementGenerator\obj\Debug\netcoreapp3.1\SqlStatementGenerator.csprojAssemblyReference.cache
+C:\Users\ksuza\OneDrive\Desktop\git Team 2\SqlStatementGenerator\obj\Debug\netcoreapp3.1\SqlStatementGenerator.AssemblyInfoInputs.cache
+C:\Users\ksuza\OneDrive\Desktop\git Team 2\SqlStatementGenerator\obj\Debug\netcoreapp3.1\SqlStatementGenerator.AssemblyInfo.cs
+C:\Users\ksuza\OneDrive\Desktop\git Team 2\SqlStatementGenerator\obj\Debug\netcoreapp3.1\SqlStatementGenerator.dll
+C:\Users\ksuza\OneDrive\Desktop\git Team 2\SqlStatementGenerator\obj\Debug\netcoreapp3.1\SqlStatementGenerator.pdb

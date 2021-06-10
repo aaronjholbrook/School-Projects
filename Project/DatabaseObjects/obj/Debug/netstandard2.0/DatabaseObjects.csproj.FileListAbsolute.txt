@@ -1,0 +1,26 @@
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\DatabaseObjects\bin\Debug\netstandard2.0\DatabaseObjects.deps.json
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\DatabaseObjects\bin\Debug\netstandard2.0\DatabaseObjects.dll
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\DatabaseObjects\bin\Debug\netstandard2.0\DatabaseObjects.pdb
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\DatabaseObjects\obj\Debug\netstandard2.0\DatabaseObjects.csprojAssemblyReference.cache
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\DatabaseObjects\obj\Debug\netstandard2.0\DatabaseObjects.csproj.CoreCompileInputs.cache
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\DatabaseObjects\obj\Debug\netstandard2.0\DatabaseObjects.AssemblyInfoInputs.cache
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\DatabaseObjects\obj\Debug\netstandard2.0\DatabaseObjects.AssemblyInfo.cs
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\DatabaseObjects\obj\Debug\netstandard2.0\DatabaseObjects.dll
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\DatabaseObjects\obj\Debug\netstandard2.0\DatabaseObjects.pdb
+C:\Users\AlexDesktop\Desktop\project\DatabaseObjects\bin\Debug\netstandard2.0\DatabaseObjects.deps.json
+C:\Users\AlexDesktop\Desktop\project\DatabaseObjects\bin\Debug\netstandard2.0\DatabaseObjects.dll
+C:\Users\AlexDesktop\Desktop\project\DatabaseObjects\bin\Debug\netstandard2.0\DatabaseObjects.pdb
+C:\Users\AlexDesktop\Desktop\project\DatabaseObjects\obj\Debug\netstandard2.0\DatabaseObjects.csprojAssemblyReference.cache
+C:\Users\AlexDesktop\Desktop\project\DatabaseObjects\obj\Debug\netstandard2.0\DatabaseObjects.csproj.CoreCompileInputs.cache
+C:\Users\AlexDesktop\Desktop\project\DatabaseObjects\obj\Debug\netstandard2.0\DatabaseObjects.AssemblyInfoInputs.cache
+C:\Users\AlexDesktop\Desktop\project\DatabaseObjects\obj\Debug\netstandard2.0\DatabaseObjects.AssemblyInfo.cs
+C:\Users\AlexDesktop\Desktop\project\DatabaseObjects\obj\Debug\netstandard2.0\DatabaseObjects.dll
+C:\Users\AlexDesktop\Desktop\project\DatabaseObjects\obj\Debug\netstandard2.0\DatabaseObjects.pdb
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\DatabaseObjects\bin\Debug\netstandard2.0\DatabaseObjects.deps.json
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\DatabaseObjects\bin\Debug\netstandard2.0\DatabaseObjects.dll
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\DatabaseObjects\bin\Debug\netstandard2.0\DatabaseObjects.pdb
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\DatabaseObjects\obj\Debug\netstandard2.0\DatabaseObjects.csprojAssemblyReference.cache
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\DatabaseObjects\obj\Debug\netstandard2.0\DatabaseObjects.AssemblyInfoInputs.cache
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\DatabaseObjects\obj\Debug\netstandard2.0\DatabaseObjects.AssemblyInfo.cs
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\DatabaseObjects\obj\Debug\netstandard2.0\DatabaseObjects.dll
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\DatabaseObjects\obj\Debug\netstandard2.0\DatabaseObjects.pdb

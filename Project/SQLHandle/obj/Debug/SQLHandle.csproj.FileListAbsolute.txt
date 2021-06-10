@@ -1,0 +1,9 @@
+C:\Users\AlexDesktop\Desktop\project\SQLHandle\obj\Debug\SQLHandle.csprojAssemblyReference.cache
+C:\Users\AlexDesktop\Desktop\project\SQLHandle\obj\Debug\SQLHandle.csproj.CoreCompileInputs.cache
+C:\Users\AlexDesktop\Desktop\project\SQLHandle\bin\Debug\SQLHandle.dll
+C:\Users\AlexDesktop\Desktop\project\SQLHandle\bin\Debug\SQLHandle.pdb
+C:\Users\AlexDesktop\Desktop\project\SQLHandle\bin\Debug\TableAttributes.dll
+C:\Users\AlexDesktop\Desktop\project\SQLHandle\bin\Debug\TableAttributes.pdb
+C:\Users\AlexDesktop\Desktop\project\SQLHandle\obj\Debug\SQLHandle.csproj.CopyComplete
+C:\Users\AlexDesktop\Desktop\project\SQLHandle\obj\Debug\SQLHandle.dll
+C:\Users\AlexDesktop\Desktop\project\SQLHandle\obj\Debug\SQLHandle.pdb

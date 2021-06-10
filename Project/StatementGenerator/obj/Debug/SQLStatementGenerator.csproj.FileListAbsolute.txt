@@ -1,0 +1,5 @@
+C:\Users\ksuza\OneDrive\Desktop\git Team 2\StatementGenerator\bin\Debug\StatementGenerator.dll
+C:\Users\ksuza\OneDrive\Desktop\git Team 2\StatementGenerator\bin\Debug\StatementGenerator.pdb
+C:\Users\ksuza\OneDrive\Desktop\git Team 2\StatementGenerator\obj\Debug\SQLStatementGenerator.csprojAssemblyReference.cache
+C:\Users\ksuza\OneDrive\Desktop\git Team 2\StatementGenerator\obj\Debug\StatementGenerator.dll
+C:\Users\ksuza\OneDrive\Desktop\git Team 2\StatementGenerator\obj\Debug\StatementGenerator.pdb

@@ -1,0 +1,178 @@
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\bin\Debug\CPTS451-Milestone1.exe.config
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\bin\Debug\CPTS451-Milestone1.exe
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\bin\Debug\CPTS451-Milestone1.pdb
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\bin\Debug\BingMaps.exe
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\bin\Debug\CheckinCountChart.exe
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\bin\Debug\DatabaseObjects.dll
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\bin\Debug\Npgsql.dll
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\bin\Debug\System.Buffers.dll
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\bin\Debug\System.Memory.dll
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\bin\Debug\System.Text.Json.dll
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\bin\Debug\System.ValueTuple.dll
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\bin\Debug\TipsWindow.exe
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\bin\Debug\WPFToolkit.dll
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\bin\Debug\DatabaseObjects.pdb
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\bin\Debug\BingMaps.pdb
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\bin\Debug\BingMaps.exe.config
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\bin\Debug\CheckinCountChart.pdb
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\bin\Debug\CheckinCountChart.exe.config
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\bin\Debug\TipsWindow.pdb
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\bin\Debug\TipsWindow.exe.config
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\bin\Debug\Npgsql.pdb
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\bin\Debug\Npgsql.xml
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\bin\Debug\System.Buffers.xml
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\bin\Debug\System.Memory.xml
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\bin\Debug\System.Text.Json.xml
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\bin\Debug\System.ValueTuple.xml
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\obj\Debug\MainApplication.csprojAssemblyReference.cache
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\obj\Debug\CPTS451-Milestone1.exe.config
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\obj\Debug\MainWindow.g.cs
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\obj\Debug\App.g.cs
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\obj\Debug\CPTS451-Milestone1_MarkupCompile.cache
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\obj\Debug\CPTS451-Milestone1_MarkupCompile.lref
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\obj\Debug\MainWindow.baml
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\obj\Debug\CPTS451-Milestone1.g.resources
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\obj\Debug\CPTS451_Milestone1.Properties.Resources.resources
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\obj\Debug\MainApplication.csproj.GenerateResource.cache
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\obj\Debug\MainApplication.csproj.CoreCompileInputs.cache
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\obj\Debug\MainApplication.csproj.CopyComplete
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\obj\Debug\CPTS451-Milestone1.exe
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\obj\Debug\CPTS451-Milestone1.pdb
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\bin\Debug\SQLHandling.dll
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\bin\Debug\TableAttributes.dll
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\bin\Debug\SQLHandling.pdb
+C:\Users\AlexDesktop\Desktop\team2-Kristian_dev_branch-CPTS451-Project (1)\team2CPTS451-Project\CPTS451-Project\bin\Debug\TableAttributes.pdb
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\obj\Debug\MainApplication.csprojAssemblyReference.cache
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\obj\Debug\CPTS451-Milestone1.exe.config
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\obj\Debug\MainWindow.g.cs
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\obj\Debug\App.g.cs
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\obj\Debug\CPTS451-Milestone1_MarkupCompile.cache
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\obj\Debug\CPTS451-Milestone1_MarkupCompile.lref
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\obj\Debug\CPTS451-Milestone1.exe
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\obj\Debug\CPTS451-Milestone1.pdb
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\bin\Debug\CPTS451-Milestone1.exe.config
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\bin\Debug\CPTS451-Milestone1.exe
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\bin\Debug\CPTS451-Milestone1.pdb
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\bin\Debug\BingMaps.exe
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\bin\Debug\CheckinCountChart.exe
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\bin\Debug\DatabaseObjects.dll
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\bin\Debug\Npgsql.dll
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\bin\Debug\SQLHandle.dll
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\bin\Debug\System.Buffers.dll
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\bin\Debug\System.Memory.dll
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\bin\Debug\System.Text.Json.dll
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\bin\Debug\System.ValueTuple.dll
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\bin\Debug\TipsWindow.exe
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\bin\Debug\WPFToolkit.dll
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\bin\Debug\TableAttributes.dll
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\bin\Debug\DatabaseObjects.pdb
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\bin\Debug\SQLHandle.pdb
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\bin\Debug\BingMaps.pdb
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\bin\Debug\BingMaps.exe.config
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\bin\Debug\CheckinCountChart.pdb
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\bin\Debug\CheckinCountChart.exe.config
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\bin\Debug\TipsWindow.pdb
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\bin\Debug\TipsWindow.exe.config
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\bin\Debug\Npgsql.pdb
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\bin\Debug\Npgsql.xml
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\bin\Debug\System.Buffers.xml
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\bin\Debug\System.Memory.xml
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\bin\Debug\System.Text.Json.xml
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\bin\Debug\System.ValueTuple.xml
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\bin\Debug\TableAttributes.pdb
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\obj\Debug\MainWindow.baml
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\obj\Debug\CPTS451-Milestone1.g.resources
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\obj\Debug\CPTS451_Milestone1.Properties.Resources.resources
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\obj\Debug\MainApplication.csproj.GenerateResource.cache
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\obj\Debug\MainApplication.csproj.CoreCompileInputs.cache
+C:\Users\AlexDesktop\Desktop\project\CPTS451-Project\obj\Debug\MainApplication.csproj.CopyComplete
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\bin\Debug\CPTS451-Milestone1.exe.config
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\bin\Debug\CPTS451-Milestone1.exe
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\bin\Debug\CPTS451-Milestone1.pdb
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\bin\Debug\BingMaps.exe
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\bin\Debug\CheckinCountChart.exe
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\bin\Debug\DatabaseObjects.dll
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\bin\Debug\Npgsql.dll
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\bin\Debug\SQLHandle.dll
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\bin\Debug\System.Buffers.dll
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\bin\Debug\System.Memory.dll
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\bin\Debug\System.Text.Json.dll
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\bin\Debug\System.ValueTuple.dll
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\bin\Debug\TipsWindow.exe
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\bin\Debug\WPFToolkit.dll
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\bin\Debug\TableAttributes.dll
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\bin\Debug\DatabaseObjects.pdb
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\bin\Debug\SQLHandle.pdb
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\bin\Debug\BingMaps.pdb
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\bin\Debug\BingMaps.exe.config
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\bin\Debug\CheckinCountChart.pdb
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\bin\Debug\CheckinCountChart.exe.config
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\bin\Debug\TipsWindow.pdb
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\bin\Debug\TipsWindow.exe.config
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\bin\Debug\Npgsql.pdb
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\bin\Debug\Npgsql.xml
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\bin\Debug\System.Buffers.xml
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\bin\Debug\System.Memory.xml
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\bin\Debug\System.Text.Json.xml
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\bin\Debug\System.ValueTuple.xml
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\bin\Debug\TableAttributes.pdb
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\obj\Debug\MainApplication.csprojAssemblyReference.cache
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\obj\Debug\CPTS451-Milestone1.exe.config
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\obj\Debug\MainWindow.g.cs
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\obj\Debug\App.g.cs
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\obj\Debug\CPTS451-Milestone1_MarkupCompile.cache
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\obj\Debug\CPTS451-Milestone1_MarkupCompile.lref
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\obj\Debug\MainWindow.baml
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\obj\Debug\CPTS451-Milestone1.g.resources
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\obj\Debug\CPTS451_Milestone1.Properties.Resources.resources
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\obj\Debug\MainApplication.csproj.GenerateResource.cache
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\obj\Debug\MainApplication.csproj.CopyComplete
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\obj\Debug\CPTS451-Milestone1.exe
+C:\Users\ksuza\Downloads\team2-Alex_dev_branch (5)\team2-Alex_dev_branch\CPTS451-Project\CPTS451-Project\obj\Debug\CPTS451-Milestone1.pdb
